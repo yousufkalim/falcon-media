@@ -1,4 +1,4 @@
-# Node-JS Boilerplate
+# Falcon Media Server
 
 Installation steps to run server locally
 
